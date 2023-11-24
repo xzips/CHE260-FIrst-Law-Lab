@@ -1,11 +1,11 @@
-# CHE260-FIrst-Law-Lab
+# CHE260-First-Law-Lab #
  
 You are required to read and agree to the following statements before using this code.
 
-#Description:
+$Description$:
 Plotting & calculation code for CHE260 Thermodynamics & Heat Transfer, Lab 2 - First Law of Thermodynamics
 
-#Disclaimer:
+$Disclaimer$:
 This thermodynamics lab code was exclusively developed by Aspen Erlandsson, an Engineering Science student at
 the University of Toronto at time of writing[2023-11-23], as part of an academic project for the course CHE260.
 
